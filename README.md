@@ -45,7 +45,7 @@ text
 - Display: O(n)
 
 ## Team Members
-- Monish Sengalvarayan
+- Monish Sengalvarayan (25BCE2647)
 - Ryan Thomas (25BCE2615)  
 - Adrian Thomas (25BCE2615)
 
